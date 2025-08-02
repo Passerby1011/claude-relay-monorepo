@@ -1,4 +1,4 @@
-# Claude Relay Monorepo0
+# Claude Relay Monorepo
 
 一个现代化的 Claude API 代理服务，基于 Cloudflare Workers 构建，让您安全便捷地使用 Claude Code。
 
@@ -230,4 +230,5 @@ npm run format
 ---
 
 ⭐ 如果这个项目对您有帮助，请给我们一个星标！
+
 
